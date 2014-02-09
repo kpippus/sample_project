@@ -6,3 +6,5 @@ the fine viewers a means to learning the _Git_
 commands.
 
 *this is yet another line*
+
+Git RULES!!!
