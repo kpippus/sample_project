@@ -5,4 +5,4 @@ The only reason this project exists is to give
 the fine viewers a means to learning the _Git_
 commands.
 
-*this is another line*
+*this is yet another line*
